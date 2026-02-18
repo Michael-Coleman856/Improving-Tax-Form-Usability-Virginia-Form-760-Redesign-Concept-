@@ -11,3 +11,5 @@ This project is a redesign concept of Virginia Form 760 (Resident Income Tax Ret
 <h1>Original Virginia Form 760 </h1> 
 
 This is the publicly available reference form layout. The design is structured and compliant, but the density of information and tight spacing can make scanning and completion more difficult for taxpayers.
+
+<img width="756" height="464" alt="image" src="https://github.com/user-attachments/assets/153dca1c-5d63-41de-9f13-29c3515d2b48" />
