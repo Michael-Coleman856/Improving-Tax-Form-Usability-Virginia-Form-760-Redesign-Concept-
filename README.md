@@ -27,3 +27,18 @@ This redesign concept improves layout clarity by grouping related fields, streng
 - Cleaner presentation of SSN, date of birth, and ID information
 - Filing status redesigned for faster scanning and fewer entry mistakes
 - More modern visual hierarchy while maintaining an official government form style
+
+<h1>Tools Used</h1>
+
+- Figma — layout redesign concept, grid structure, and visual hierarchy
+- Adobe Creative Cloud (in progress) — supporting exports and workflow familiarity (currently expanding proficiency in Adobe tools for document production)
+
+<h1>Portfolio Note</h1>
+
+This redesign is a concept project created to demonstrate form design and document usability skills. It is not an official government form and is intended for portfolio and interview discussion purposes only.
+
+<h1>Next Steps (Future Enhancements)</h1>
+
+- Rebuild the same layout in Adobe InDesign for print-ready production
+- Convert the redesigned PDF into a fillable form using Adobe Acrobat Pro
+- Expand the redesign to include a simplified instruction page to reduce taxpayer errors
